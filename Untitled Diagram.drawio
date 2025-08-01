@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0" version="27.0.8">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2029" dy="1191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#0D0F12)" math="0" shadow="1">
+    <mxGraphModel dx="2029" dy="1191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#0D0F12)" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" edge="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=3;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;fillColor=#647687;strokeColor=#314354;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="330" as="targetPoint" />
           </mxGeometry>
@@ -15,7 +15,7 @@
         <mxCell id="WpGe0-zIOUfY9Kgkrg3v-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WpGe0-zIOUfY9Kgkrg3v-0" target="WpGe0-zIOUfY9Kgkrg3v-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WpGe0-zIOUfY9Kgkrg3v-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WpGe0-zIOUfY9Kgkrg3v-0" target="WpGe0-zIOUfY9Kgkrg3v-4">
+        <mxCell id="WpGe0-zIOUfY9Kgkrg3v-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;fillColor=#647687;strokeColor=#314354;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WpGe0-zIOUfY9Kgkrg3v-0" target="WpGe0-zIOUfY9Kgkrg3v-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WpGe0-zIOUfY9Kgkrg3v-0" value="Identify locked pathways and potential routes forward" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -24,10 +24,10 @@
         <mxCell id="WpGe0-zIOUfY9Kgkrg3v-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WpGe0-zIOUfY9Kgkrg3v-2" target="WpGe0-zIOUfY9Kgkrg3v-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WpGe0-zIOUfY9Kgkrg3v-2" value="Take optional route" style="whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="WpGe0-zIOUfY9Kgkrg3v-2" value="Take optional route" style="whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;rounded=1;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="200" y="385" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WpGe0-zIOUfY9Kgkrg3v-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WpGe0-zIOUfY9Kgkrg3v-4" target="WpGe0-zIOUfY9Kgkrg3v-6">
+        <mxCell id="WpGe0-zIOUfY9Kgkrg3v-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#647687;strokeColor=#314354;strokeWidth=3;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WpGe0-zIOUfY9Kgkrg3v-4" target="WpGe0-zIOUfY9Kgkrg3v-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WpGe0-zIOUfY9Kgkrg3v-4" value="Take main route" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -46,10 +46,10 @@
             <mxPoint x="21" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WpGe0-zIOUfY9Kgkrg3v-6" value="INVESTIGATE main puzzle setup" style="ellipse;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="WpGe0-zIOUfY9Kgkrg3v-6" value="&lt;b&gt;INVESTIGATE&lt;/b&gt; main puzzle setup" style="ellipse;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="445" y="720" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="WpGe0-zIOUfY9Kgkrg3v-8" value="&lt;div&gt;Loop here is similar to main loop just significantly shorter but with potentially more complex puzzles&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="WpGe0-zIOUfY9Kgkrg3v-8" value="&lt;div&gt;Loop here is similar to main loop just significantly shorter but with potentially more complex puzzles&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-100" y="322.5" width="210" height="185" as="geometry" />
         </mxCell>
         <mxCell id="WpGe0-zIOUfY9Kgkrg3v-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;dashed=1;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WpGe0-zIOUfY9Kgkrg3v-10" target="WpGe0-zIOUfY9Kgkrg3v-12">
@@ -74,8 +74,11 @@
         <mxCell id="WpGe0-zIOUfY9Kgkrg3v-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=0;fillColor=#e51400;strokeColor=#B20000;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WpGe0-zIOUfY9Kgkrg3v-12" target="WpGe0-zIOUfY9Kgkrg3v-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WpGe0-zIOUfY9Kgkrg3v-12" value="Deal with potential enemies via STEALTH or COMBAT" style="rhombus;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="WpGe0-zIOUfY9Kgkrg3v-12" value="Deal with potential enemies via &lt;b&gt;STEALTH&lt;/b&gt; or &lt;b&gt;COMBAT&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="1040" width="166" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="WpGe0-zIOUfY9Kgkrg3v-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WpGe0-zIOUfY9Kgkrg3v-16" target="WpGe0-zIOUfY9Kgkrg3v-34">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WpGe0-zIOUfY9Kgkrg3v-16" value="Collect key items, find new pathways" style="rhombus;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="1180" width="160" height="160" as="geometry" />
@@ -89,17 +92,55 @@
         <mxCell id="WpGe0-zIOUfY9Kgkrg3v-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WpGe0-zIOUfY9Kgkrg3v-22" target="WpGe0-zIOUfY9Kgkrg3v-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WpGe0-zIOUfY9Kgkrg3v-22" value="Explore rooms to find things to RECORD" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;rounded=1;labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="WpGe0-zIOUfY9Kgkrg3v-22" value="Explore rooms to find things to &lt;b&gt;RECORD&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;rounded=1;labelBackgroundColor=light-dark(#FFFFFF,#FFFFFF);" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="650" y="870" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="WpGe0-zIOUfY9Kgkrg3v-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WpGe0-zIOUfY9Kgkrg3v-26" target="WpGe0-zIOUfY9Kgkrg3v-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WpGe0-zIOUfY9Kgkrg3v-26" value="Deal with enemies" style="whiteSpace=wrap;html=1;fontSize=18;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;rounded=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="1109" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="WpGe0-zIOUfY9Kgkrg3v-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WpGe0-zIOUfY9Kgkrg3v-28" target="WpGe0-zIOUfY9Kgkrg3v-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WpGe0-zIOUfY9Kgkrg3v-28" value="Find evidence and record it" style="whiteSpace=wrap;html=1;fontSize=18;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;rounded=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="670" y="1180" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="WpGe0-zIOUfY9Kgkrg3v-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WpGe0-zIOUfY9Kgkrg3v-30" target="WpGe0-zIOUfY9Kgkrg3v-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WpGe0-zIOUfY9Kgkrg3v-30" value="Collect key items, find new pathways" style="whiteSpace=wrap;html=1;fontSize=18;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;rounded=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="780" y="1109" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WpGe0-zIOUfY9Kgkrg3v-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WpGe0-zIOUfY9Kgkrg3v-32" target="WpGe0-zIOUfY9Kgkrg3v-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WpGe0-zIOUfY9Kgkrg3v-32" value="This node is also&amp;nbsp;&lt;b&gt;INVESTIGATION&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-10" y="840" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WpGe0-zIOUfY9Kgkrg3v-36" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=0;fillColor=#647687;strokeColor=#314354;strokeWidth=3;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WpGe0-zIOUfY9Kgkrg3v-34" target="WpGe0-zIOUfY9Kgkrg3v-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="1470" />
+              <mxPoint x="540" y="980" />
+              <mxPoint x="510" y="980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WpGe0-zIOUfY9Kgkrg3v-34" value="Solve main puzzle and move on to next area/part of level" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="1400" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="WpGe0-zIOUfY9Kgkrg3v-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#6d8764;strokeColor=#3A5431;strokeWidth=4;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WpGe0-zIOUfY9Kgkrg3v-38" target="WIyWlLk6GJQsqaUBKTNV-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="970" y="1400" />
+              <mxPoint x="970" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WpGe0-zIOUfY9Kgkrg3v-38" value="Finish overall level" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;rounded=1;labelBackgroundColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="1330" width="180" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
